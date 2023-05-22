@@ -150,7 +150,7 @@ Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestur
 
 ### Consent System Commands
 
-I consent…, Opt in to…, Opt out of….
+I agree, and consent…, Opt in to…, Opt out of….
 
 ### Connection System Commands
 
