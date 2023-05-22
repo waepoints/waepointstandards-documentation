@@ -156,6 +156,10 @@ I agree, and consent…, Opt in to…, Opt out of….
 
 Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join…, …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
 
+### Transportation System Commands
+
+I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my home…, Going/goin’ To...
+
 ### Utility System Commands
 
 Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
