@@ -164,13 +164,13 @@ I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my h
 
 Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
 
+### First Aid System Commands
+
+... R and R..., ... Bring... to where.. already at...
+
 ### Declaring System Commands
 
 ... Focus..., Perform the system command(s)..., ... Apply..., … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., … Anchor…, … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
-
-### First Aid System Commands
-
-... R and R..., Modify me/my... To/so..., Restore..., Restore... to myself/themselves as if I/they have/had/had had/did default healing/Restore... from healing criteria/the criteria/the healing criteria..., ... Micro Heal…, ... Zone Heal...
 
 ### Communication System Commands
 
