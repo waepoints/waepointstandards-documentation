@@ -38,10 +38,10 @@
 ### System Speech and System Setup Priorities Hierarchy
 Governing Entity Governmental Published Policy
 Governing Entity Departmental Order and/or Governing Entity Departmental Directive
-The Standard Definition of Interactions with the Compatible Device(s) of the main git branch
-The Standard Definition of Interactions with the Compatible Device(s) of the git branch the user has said to be trying out most recently
-Waepoint System Standards of the main git branch
-Waepoint System Standards of the git branch the user has said to be trying out most recently
+The Standard Definition of Interactions with the Compatible Device(s) of the main git branch of the waepointstandards git repository
+The Standard Definition of Interactions with the Compatible Device(s) of the git branch the user has said to be trying out most recently of the waepointstandards git repository
+Waepoint System Standards of the main git branch of the waepointstandards git repository
+Waepoint System Standards of the git branch the user has said to be trying out most recently of the waepointstandards git repository
 Modules Of The System(s) On The User’s Device
 Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Device, or Devices, and Users of
 The Highest Priority Permitted For Module Added Material And Use Of Modules 
