@@ -6,7 +6,13 @@ Governing Entity Published Policy
 
 Governing Entity Departmental Order and/or Governing Entity Departmental Directive
 
-Waepoint System Standards
+The Standard Definition of Interactions with the Compatible Device(s) of the main git branch
+
+The Standard Definition of Interactions with the Compatible Device(s) of the git branch the user has said to be trying out most recently
+
+Waepoint System Standards of the main git branch
+
+Waepoint System Standards of the git branch the user has said to be trying out most recently
 
 Modules Of The System(s) On The User’s Device
 
