@@ -20,13 +20,13 @@ To use, say “I have the thing which the quote on waepoints.com is about”
 
 The repository can be fully uninstalled using the Clean Uninstall The Repository... system command in micro or using the From The Micro Definitions... system command outside of micro, or quick uninstalled by making an distinctive identity reference and definition using one, or both, of the two following phrases...
 
-> The device I’m using and own I intend, or instance I’m currently running, and have the necessary proper authorization to make a change for, and intend, currently referencing the waepointstandards repository doesn’t...
+> The device I’m using, and own, I intend, and have the necessary proper authorization to make a change for, isn’t stacked on the Standard Definition of Interactions with the Compatible Device(s), and the device doesn’t...
 
 And or or
 
-> My interactions and or or my interactions with the compatible device(s), don’t...
+> My interactions with the compatible device(s) and the user(s) of the compatible device(s) while I’m interacting with the device, don’t...
 
-> **... have reference(s) and definition(s) involving the waepointstandards git repository and or or the standardized Standard Definition**
+> **... have reference(s) and definition(s) involving the waepointstandards git repository, and or or, the Standard Definition of Interactions with the Compatible Device(s)**
 
 # How To Use The Standard Definition...
 
@@ -93,7 +93,7 @@ The waepointstandards git repository is extending to the securelinking instances
 
 # License
 
-Waepoint System Standards v0.22a116
+Waepoint System Standards v0.22a166
 
 The version of the files with the files’ contents matching with the files’ contents in the files from the waepointstandards git repository’s newest git commit to the git branch I’ve said most recently to be trying out, defaulting to the main git branch, at the git origin stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, which meet the version approving criteria’s criteria set forth in the Standard Definition of Interactions with the Compatible Device(s) section’s contents of the > indented paragraph in the section, specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the git branch I’ve said most recently to be trying out, defaulting to the main git branch, of the waepointstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition of the Interactions with the Compatible Device(s), with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, will be named in future uses as the standardized Waepoint System Standards version
 
