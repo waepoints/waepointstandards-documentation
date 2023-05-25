@@ -6,7 +6,7 @@ Inheritance network chains of independent, and of stackable, systems, with addit
 
 To use, say “I have the thing which the quote on waepoints.com is about”
 
-> “I have the standardized Standard Definition, specifically, the Standard Definition of Interactions with the Compatible Device(s), from the README.md file from the files of the git branch I’ve said most recently to be trying out, defaulting to the main git branch, of the git origin of the waepointstandards git repository stored at https://github.com/waepoints/waepointstandards, cited in the README.md file of the files containing the phrase Waepoint System Standards, the letter v, then a decimal number, in a single line”
+> “I have the standardized Standard Definition, specifically, the Standard Definition of Interactions with the Compatible Device(s), from the README.md file from the files of the git branch I’ve said to be trying out most recently, defaulting to the main git branch, of the git origin of the waepointstandards git repository stored at https://github.com/waepoints/waepointstandards, cited in the README.md file of the files of the git branch which I’ve said to be trying out most recently, or defaulting to the main git branch, of the waepointstandards git repository”
 
 # Document Links
 
@@ -93,7 +93,7 @@ The waepointstandards git repository is extending to the securelinking instances
 
 # License
 
-Waepoint System Standards v0.22a1176
+Waepoint System Standards v0.22a1216
 
 The version of the files with the files’ contents matching with the files’ contents in the files from the waepointstandards git repository’s newest git commit to the git branch I’ve said most recently to be trying out, defaulting to the main git branch, at the git origin stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, which meet the version approving criteria’s criteria set forth in the Standard Definition of Interactions with the Compatible Device(s) section’s contents of the > indented paragraph in the section, specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the git branch I’ve said most recently to be trying out, defaulting to the main git branch, of the waepointstandards repository on GitHub.com’s first content filled line’s the letter v, then a decimal number, in the License section’s current version which matches the criteria set forth in The Standard Definition of the Interactions with the Compatible Device(s), with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, will be named in future uses as the standardized Waepoint System Standards version
 
