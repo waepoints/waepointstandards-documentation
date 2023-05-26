@@ -36,12 +36,6 @@ Provisions Of The Joined and/or From Outside The User’s System Interacting, Sy
 
 System Commands
 
-Preferrings Of The Managing Entity’s Owners’, Or Owner’s
-
-Preferrings Of The User’s System’s Or Device’s Or Devices’ Owners’, or Owners’
-
-Preferrings Of Users Of The System Or Device’s Or Devices’ and Users Of The Joined And/Or From Outside The User’s System Interacting, Systems’, or System’s, or Device’s, or Devices’ Users and Users Of The Managing Entity
-
 Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
 
 Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Device’s Or Devices’
