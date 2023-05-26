@@ -159,7 +159,7 @@ Set my app for semicolon starting messages to…
 
 > System speech may only be started tracking, and, or be stacked, by the user, through defined system commands, and defined system command gestures
 
-> New conversation, through an endpoint, or a waepoint, or an independent system, doesn’t start tracking, and doesn’t stack, by other than defined system commands
+> New conversation, through an endpoint, or a waepoint, or an independent system, doesn’t start tracking, and doesn’t stack, by other than defined system commands and the Standard Definition of Interactions with the Compatible Device(s)
 
 **Commands**, the conversation that has been had or is being had by a user with a representation of the intention, stored by the system in the system, the user had for the conversation, and definitions of how the system interacts with the user, and definitions of the user, by the user’s own self, may be stacked on the user with by ending the phrase with the word set followed by the user’s confirmation
 **Comments**, the conversation that has been had or is being had with the user with a representation of the intention, stored by the system in the system, of a user which isn’t the user’s own self and which the conversation was had or is had with, and definitions of how the system interacts with a user, and of a user, by a user which isn’t the user’s own self
