@@ -16,11 +16,11 @@ Waepoint System Standards of the git branch the user has said to be trying out m
 
 Modules Of The System(s) On The User’s Device
 
-Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Device, or Devices, and Users of
+Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
 
 The Highest Priority Permitted For Module Added Material And Use Of Modules 
 
-The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Device, or Devices, and User(s) of
+The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and User(s) of
 
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
 
@@ -28,43 +28,37 @@ Provisions Of The Managing Entity and Definitions Of The Managing Entity
 
 Definitions Of The User’s Compatible Device, or Compatible Devices, and, or Compatible Software
 
-Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Device
+Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Compatible Device
 
-Definitions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Device, or Devices
+Definitions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
 
-Provisions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Device, or Devices
+Provisions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
 
-System Commands
+Defined System Commands and Defined System Command Gestures
 
 Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
 
-Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Device’s Or Devices’
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Compatible Device’s Or Compatible Devices’
 
-Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, Of The Joined And/Or From Outside The User’s System Interacting, System’s, or Systems’, or Device’s, or Devices’ Users and Users Of The Managing Entity
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, Of The Joined And/Or From Outside The User’s System Interacting, System’s, or Systems’, or Compatible Device’s, or Compatible Devices’ Users and Users Of The Managing Entity
 
 Confirmed Phrase and Confirmed Phrases Of The Managing Entity’s Owner’s, or Owners’
 
-Confirmed Phrase and Confirmed Phrases Of The User’s System’s, or Systems’ Or Device’s Or Devices’ Owner’s, or Owners’
+Confirmed Phrase and Confirmed Phrases Of The User’s System’s, or Systems’ Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
 
-Confirmed Phrase and Confirmed Phrases Of The Users Of The System Or Device’s Or Devices’ and The Users Of The Joined and/or From Outside The User’s System Interacting, Device’s, or Devices’, or System’s, or Systems’, Users and Users Of The Managing Entity
+Confirmed Phrase and Confirmed Phrases Of The Users Of The System Or Compatible Device’s Or Compatible Devices’ and The Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, or Compatible Devices’, or System’s, or Systems’, Users and Users Of The Managing Entity
 
 Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
 
-Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The User’s System’s  Or Device’s Or Devices’ Owner’s, or Owners’
+Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The User’s System’s  Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
 
-Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Device, Or Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
-
-Semicolon Starting Messages Of The Managing Entity’s Owner, or Owners
-
-Semicolon Starting Messages Of The User’s System’s Or Device’s Or Devices’ Owner’s or Owners’
-
-Semicolon Starting Messages Of The User’s System’s Or Device’s Or Devices’ Users and The Joined and/or From Outside The System Interacting, Device’s, Or Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Compatible Device, Or Compatible Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
 
 Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The Managing Entity’s Owners
 
-Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Device’s Or Devices’
+Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Compatible Device’s Or Compatible Devices’
 
-Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Device’s, Or Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, Or Compatible Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
 
 ### Preferring Hierarchy
 
@@ -150,7 +144,7 @@ Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestur
 
 ### Consent System Commands
 
-I agree, and consent…, Opt in to…, Opt out of….
+Opt me… in…, Opt in to…, Opt out of….
 
 ### Connection System Commands
 
@@ -211,7 +205,3 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 ### Connection & Joining Requests
 
 ### Incoming Connection & Joining Requests
-
-### Semicolon Starting Messages
-
-Set my app for semicolon starting messages to…

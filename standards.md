@@ -32,119 +32,217 @@
 * [Consent System Commands](https://waepoints.github.io/waepointstandards-documentation/standards.html#consent-System-commands-1)
 12. [Connection Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#connection-requests-1)
 13. [Incoming Connection Requests](https://waepoints.github.io/waepointstandards-documentation/standards.html#incoming-connection-requests-1)
-14. [Semicolon Starting Messages](https://waepoints.github.io/waepointstandards-documentation/standards.html#semicolon-starting-messages-1)
  
 > Reading or learning about the numbered headings in the outline’s contents above is sufficient knowledge of the Waepoint System Standards, which are the waepointstandards git repository's README.md, micro.md, standards.md, and communityprovisions.md files without alteration, redaction, or expansion, through system speech, system command speech, and/or otherwise, and is considered sufficient informed consent of the provisions described therein to lift the limiting to the lobbies of the endpoint(s), and waepoint(s) for the user, and the Waepoint System Standards stay tracking in entirety for the users which haven’t opted out in entirety despite use of the stop tracking... system command, and other declaring system commands, and, or, system speech, and, or, modules
 
+
 ## Detailed Outline of the Waepoint System Standards
+
 ### System Speech and System Setup Priorities Hierarchy
-Governing Entity Governmental Published Policy
+
+Governing Entity Published Policy
+
 Governing Entity Departmental Order and/or Governing Entity Departmental Directive
+
 The Standard Definition of Interactions with the Compatible Device(s) of the main git branch of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+
 The Standard Definition of Interactions with the Compatible Device(s) of the git branch the user has said to be trying out most recently of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+
 Waepoint System Standards of the main git branch of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+
 Waepoint System Standards of the git branch the user has said to be trying out most recently of the waepointstandards git repository from the git origin stored at https://github.com/waepoints/waepointstandards
+
 Modules Of The System(s) On The User’s Device
-Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Device, or Devices, and Users of
+
+Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and Users of
+
 The Highest Priority Permitted For Module Added Material And Use Of Modules 
-The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Device, or Devices, and User(s) of
+
+The Highest Priority Permitted For Module Added Material And Use Of Modules Of The Joined and/or From Outside The User’s System Interacting, Mapping(s), Collection(s), System, or Systems, or Compatible Device, or Compatible Devices, and User(s) of
+
 > The above priorities within the system priorities are elevated in priority below the below priorities in terms of the system priorities
+
 Provisions Of The Managing Entity and Definitions Of The Managing Entity
+
 Definitions Of The User’s Compatible Device, or Compatible Devices, and, or Compatible Software
-Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Device
-Definitions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Device, or Devices
-Provisions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Device, or Devices
-System Commands
+
+Provisions Of The User’s System, or Systems, On The User’s Device and Definitions Of The System, or Systems, On The User’s Compatible Device
+
+Definitions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
+
+Provisions Of The Joined and/or From Outside The User’s System Interacting, System, or Systems, or Compatible Device, or Compatible Devices
+
+Defined System Commands and Defined System Command Gestures
+
 Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The Managing Entity
-Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Device’s Or Devices’
-Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, Of The Joined And/Or From Outside The User’s System Interacting, System’s, or Systems’, or Device’s, or Devices’ Users and Users Of The Managing Entity
+
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones Of The User’s System Or Compatible Device’s Or Compatible Devices’
+
+Ways and Tenets and Definitions Of The Users’ Interactions On A Zone and Of A Zone, or A Group of Zones, or Groups of Zones, Of The Joined And/Or From Outside The User’s System Interacting, System’s, or Systems’, or Compatible Device’s, or Compatible Devices’ Users and Users Of The Managing Entity
+
 Confirmed Phrase and Confirmed Phrases Of The Managing Entity’s Owner’s, or Owners’
-Confirmed Phrase and Confirmed Phrases Of The User’s System’s, or Systems’ Or Device’s Or Devices’ Owner’s, or Owners’
-Confirmed Phrase and Confirmed Phrases Of The Users Of The System Or Device’s Or Devices’ and The Users Of The Joined and/or From Outside The User’s System Interacting, Device’s, or Devices’, or System’s, or Systems’, Users and Users Of The Managing Entity
+
+Confirmed Phrase and Confirmed Phrases Of The User’s System’s, or Systems’ Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
+
+Confirmed Phrase and Confirmed Phrases Of The Users Of The System Or Compatible Device’s Or Compatible Devices’ and The Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, or Compatible Devices’, or System’s, or Systems’, Users and Users Of The Managing Entity
+
 Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The Managing Entity’s Owner’s, or Owners’
-Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The User’s System’s  Or Device’s Or Devices’ Owner’s, or Owners’
-Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Device, Or Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
-Semicolon Starting Messages Of The Managing Entity’s Owner, or Owners
-Semicolon Starting Messages Of The User’s System’s Or Device’s Or Devices’ Owner’s or Owners’
-Semicolon Starting Messages Of The User’s System’s Or Device’s Or Devices’ Users and The Joined and/or From Outside The System Interacting, Device’s, Or Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+
+Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property Of The User’s System’s  Or Compatible Device’s Or Compatible Devices’ Owner’s, or Owners’
+
+Commands and Definitions Of The User By The User and Imbuings and Definitions Of Property By Users Of The User’s System and Users Of The Joined And/Or From Outside The User’s System Interacting, Compatible Device, Or Compatible Devices, Or System, Or Systems’ Users and Users Of The Managing Entity
+
+Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Compatible Device’s Or Compatible Devices’
+
 Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The Managing Entity’s Owners
-Comments and Definitions Of The User By Other Users and Definitions Of Some Users Of The System Or Device’s Or Devices’
-Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Device’s, Or Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+
+Comments and Definitions Of The User By Other Users and Definitions of Some Users Of The Joined and/or From Outside The User’s System Interacting, Compatible Device’s, Or Compatible Devices’, Or System’s, Or Systems’, Users and Users Of The Managing Entity
+
 ### Preferring Hierarchy
+
 Preferrings Of Governing Entities Of The System
+
 Preferrings Of Managing Entities Of The System
+
 Preferrings Of Owning Entities Of The System
+
 Preferrings Of Approved By The Owner For A Role Other Than User When, Where And How Stipulated By Their Role
+
 Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User When The User Isn’t Cognizant Of The User’s Own Self
+
 Preferrings Of The User If The User Isn’t An Above Entity
+
 Preferrings Of The Users Or User Which Has The Legal Right To Consent For The User
+
 Preferrings Of The Current Family, Current Friends And Current Significant Other Of The User
+
 Preferrings Of The Other Users If The Other User Isn’t An Above Entity
+
 ### Role Hierarchy
+
 Owner
+
 Administrator
+
 Moderator
+
 User 
+
 ### System Definition Hierachy
+
 Endpoint or Compatible Server Segment
+
 Endpoint Segment
+
 Waepoint
+
 Waepoint Segment
+
 Stacked System or Independent System or Device
+
 ### System Speech and System Speech Categories
+
 Commands, Comments, Imbuing, Provisions, Tenets, Ways, Confirmed Phrase and Confirmed Phrases, Sets
+
 ### System Command Speech
+
 System Command Name(s), System Command Declarations, System Command Interactions
+
 ### System Setup
+
 Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Compatible Device(s) and/or Compatible Software or Mapping(s) or System(s), Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
+
 ### System Mappings
+
 Zone, Lobby, Library, Plateau
+
 ### Reserved Defined System Command Gestures
+
 ### Focusing Gestures
+
 Focus Gesture, Sustained Focus Gesture
+
 ### Apply Gestures
+
 One-Time Gesture, Apply Gesture, While Gesture
+
 ### Stacking and Unstacking Gestures
+
 Stack Gesture, Unstack/Untrack Gesture, Info Unstack/Untrack Gesture
+
 ### Utility System Command Gestures
+
 Define System Command Gesture, Info Gesture, Home Gesture, Share & Accept Gestures
+
 ### Reserved Defined System Commands
+
 ### Initial Consent System Commands
+
 ...consent/consents/consenting/consented to the most recent revision…
+
 ### Consent System Commands
-I agree, and consent…, Opt in to…, Opt out of….
+
+Opt me… in…, Opt in to…, Opt out of….
+
 ### Connection System Commands
+
 Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join…, …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
+
 ### Transportation System Commands
+
 I’m going home/I’m goin’ home/I’m going to my home/I’m goin’ to my home…, Going/goin’ To...
+
 ### Utility System Commands
+
 Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/… Nanomap…, I’m going to my home zone…, Share… with…, Store… in… inventory…
+
 ### First Aid System Commands
+
 ... R and R..., ... Bring... to where.. already at..., … Restore…, … Modify me…, … Heal…
+
 ### Declaring System Commands
+
 ... Focus..., Perform the system command(s)..., ... Apply..., … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
+
 ### Communication System Commands
+
 Send a message to…, Replay the last message…, Reply with…, Conference call with…
+
 ### Sets System Commands
+
 Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
+
 ### Lobby-Bound System Commands
+
 Request…/Make a request…
+
 ### Zone-Bound System Commands
+
 Request…/Make a request…, Make a way..., Lose the way/ways..., Save... as a stop..., Partition…, Lose... as a stop..., Spec...
+
 ### Clustering and Extending System Commands
+
 Attach…, Let from…, Extend…, Stop extending…, Generate system commands which… for…, Clear generated system commands…
+
 ### Setup System Commands
+
 ... Setup... As A Waepoint?, ... Setup... As An Independent Lobby?, Change the segment of... For... To..., Add a segment… for…, Add a segment… for… on…, Cancel… segment(s)… moving… to…, Cancel… segment(s)…, Add a…, Point the system/lobby/segment to the … hub as the default..., Cancel the…, Set the access policy/policies..., Allow access to/on/for… for…, Restrict access to/on/for… for…, Set... ...’s protocol for..., Adjust... ...’s protocol for..., Cancel... ...’s protocol for..., Set the top-level inherited provisions for… to be…, Set the top-level private provisions for… to be…, Adjust the top-level inherited provisions of… so/so that/to be/to…, Adjust the top-level private provisions of… so/so that/to be/to…, From the micro definition/definitions…
+
 ### Administrative System Commands
+
 Designate… as…, Give my role of… to…, Undesignate… as…
+
 ### Interfacing System Commands
+
 ... Specifically..., ... Define…, … Alias… As…, …Dealias(ed)…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+
 ### Module System Commands
+
 Define a module that/which/where... Named/called..., Update the... module... To have..., Rename the... Module to..., Load... Module..., Restore… module…, Stop/Cancel/Unload... Module(s)..., Add a...
+
 ### Connection & Joining Requests
+
 ### Incoming Connection & Joining Requests
-### Semicolon Starting Messages
-Set my app for semicolon starting messages to…
 
 ## System Speech and System Speech Categories
 
@@ -170,8 +268,8 @@ Set my app for semicolon starting messages to…
 
 **Focus**, the system speech which will be applied if an ... Apply... System Command or or one of the Apply Gestures is performed
 **System Command Name(s)** the syntax of the system command(s), for cueing the system command(s) when mentioning while intentioned, allowing for other than the listed grammatical tenses to also cue the system command(s) with the right actions for the right tense pertinent to the description of the system command in the Waepoint System Standards, but referring to the communityprovisions.md file’s, micro.md file’s, and the provisions for System Command Interactions’s, and the section of the README.md file entitled The Standard Definition Of The Compatible Device’s descriptions for which actions which are pertinent to the system command in specific being cued, and, or, performing each system command in specific, when each system command is performed, aren’t permitted in cueing, and, or, performing, the system command(s)
-**System Command Declarations**, system speech given with a system command, must have a matching and/or similar enough intention to the system command’s description, to perform the system command, and may only be independently initiated by the user, and with the passive or active consent of the user only, may only be a reserved defined system command or declared in a provision or definition, may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition and/or have shared definitions to the phrase’s phrasing enough to align enough to intended, if a subject or object isn’t mentioned in the phrase, and the most recent focus of the user fits with the intention of the declaration, the most recent focus of the user is used as the object or subject whichever is most appropriate, the right declarations understand the user’s intention perfectly or confirm the most recent phrase if the phrase ends with the confirmation and the phrase doesn’t contain system command name(s), system command declarations are also given when the device, devices, segment or segments or software or system or systems is or are addressed directly by a user which meets the access policy for the device, segment or system, if the time to start tracking, or stacking, because of a system command declaration is later than when the system command is given, an intermediate system command starts tracking when given to cue the other system command at the right time
-**System Command Interactions**, applicable through a system command, and only may be through a system command given, and may only be independently initiated, authentic to, and carried out by the user’s, and with the passive or active consent of the user only, may be a system command gesture performed mentioned and given in a system command, or otherwise performed and may be declared in a provision or definition, noticing is always done in the most natural and preferred language of the user for the system and the user notices the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the provision or way or preferring if such wording is in the provisions or ways or preferrings of a user, or the hub, or the mapping the interaction is interacting with, when there aren’t enough available resources within the owning, managing, governing and regulating entity limitations, interactions aren’t undertaken for the interaction attempt initiated, interactions ensure application of the modiphases applied of the waepoint, endpoint, imbuing, extended to device involved and the modiphases thereof have proper authorization for interacting with the property of another entity in their application and intent and in the intentions regarding other users a requisite wholly legal intention in the interaction is required before initiating a system command’s interaction attempt initiated, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time, in interactions where past events have been changed, the user stacks the change as a system speech command in their changelog with the specifics described in the Changelog provision, and an interaction with the system is indistinguishable from an interaction without the system, any and all system speech and system command speech which a user’s birth and or or being brought back to life is contingent on, while the user’s birth and or or being brought back to life is contingent on the system speech and or or system command speech, and, or, any and all system speech and system command speech which is essential to, and is a contingency of, a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, while is essential to a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, also if there is system speech which the longevity and/or prosperity of mankind and/or terrestrial life are greatly enhanced and/or ensured by, for any number of the options listed in the paragraph, the system speech and system command speech relevant never are cleared or freed until there isn’t a contingency of an essential nature which is essential to and is a contingency of a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, of a user, but the system speech and, or, system command speech, stays secured until the right moment when and while the contingency is lifted, and the system speech and system command speech relevant is kept tracking and secured for the best amount of the time for the user(s) most relevant, each time secured by the system, and at the right time(s), in enough devices of appropriate authorization and security and compatibility with securelinking and the Waepoint System Standards and the network and an in-network device and/or some to all in-network devices welcome places, in-network and out-of-network, through securelinking, for certainty of access by the users which are the reasons what was secured by the system is secured, at all times during the duration of the securing and proper application, tracking, and never stop tracking and never are freed, but are instead tracking within the system, while the birth or being brought back to life is contingent on the system speech or the longevity and/or prosperity of mankind and/or terrestrial life are greatly enhanced and/or ensured by still moving the system speech to the right system up in the inheritance chain and network if a system isn’t extended to any more where the system speech is secured, also protected from the misuse of user’s, and, or, users’, automatically are the loaded module(s), and the module description(s), system speech, and system command speech, and system setup, and system commands, and labels and helpers of requests, and the use of the Waepoint System Standards, which the manufacturer(s) of the device the users are, and, or, the user is, on, and developer(s) of the software of the device the users are, and, or, the user is, on, would decide is essential to, and, or, will be the expected operation and use of the device the users are, and, or, the user is, on, and the software and supporting files installed on the device the users are, and, or, the user is, on by the manufacturer(s) of the hardware of, and developer(s) of the software installed on, the device the users are, and, or, the user is, on, while would be decided as essential to, and, or, will be the expected operation and use of the device the users are, and, or, the user is, on, and the software of, and supporting files of the software, and supporting files of, and the user’s, and, or, users’ personal files on, the device the users are, and, or, the user is, on, also protected from the misuse of the user(s), and the owner(s), automatically until dangerous to the device the users are, and, or, the user is, on, and, or, any and all users, and, or, unhelpful, and, or, also no longer relevant, to the owner(s) of the device the users are, and, or, the user is, on, are the loaded module(s), and the module description(s), system speech, and system command speech, which are the owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device while the loaded module(s), and the module description(s), system speech, and system command speech, are owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device the users are, and, or, the user is, on are the owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device the users are, and, or, the user is, on, system commands give success notifications which the user is let notice when system commands given and being performed are successful with the information the user would want to, and does want to, know, if a duration for a system command is quoted to the user by the endpoint, waepoint, and, or, system, and the duration is exceeded by over a few seconds, the user is let notice the new remaining duration of the system command given and being performed, if and when a system command is given and being performed and exceeds the duration quoted to the user by the system, and, or, endpoint, or waepoint
+**System Command Declarations**, system speech given with a system command, must have a matching and/or similar enough intention to the system command’s description, to perform the system command, and may only be independently initiated by the user, and with the passive or active consent of the user only, may only be a reserved defined system command or declared in a provision or definition, may be given in any language which has words for the same words which are in the requisite phrasing to give the system command with words which share a definition and/or have shared definitions to the phrase’s phrasing enough to align enough to intended, if a subject or object isn’t mentioned in the phrase, and the most recent focus of the user fits with the intention of the declaration, the most recent focus of the user is used as the object or subject whichever is most appropriate, the right declarations understand the user’s intention perfectly or confirm the most recent phrase if the phrase ends with the confirmation and the phrase doesn’t contain system command name(s), system command declarations are also given when the waepoint, or system on a waepoint and the waepoint, the user is on, is addressed directly by a user which meets the access policy for, and is on the waepoint, or system on a waepoint and the waepoint, with or without having the user’s confirmation in the system command declaration, or a system command confirmation, in the system command declaration, if the time to start tracking, or stacking, because of a system command declaration is later than when the system command is given, an intermediate system command starts tracking when given to cue the other system command at the right time
+**System Command Interactions**, applicable through a system command, and only may be through a system command given, and may only be independently initiated, authentic to, and carried out by the user’s, and with the passive or active consent of the user only, may be a system command gesture performed mentioned and given in a system command, or otherwise performed and may be declared in a provision or definition, noticing is always done in the most natural and preferred language of the user for the system and the user notices the reason why an interaction doesn’t occur if isn’t allowed or permitted using properly the explicit notice wording of the provision or way or preferring if such wording is in the provisions or ways or preferrings of a user, or the hub, or the mapping the interaction is interacting with, when there aren’t enough available resources within the owning, managing, governing and regulating entity limitations, interactions aren’t undertaken for the interaction attempt initiated, interactions ensure application of the modiphases applied of the waepoint, endpoint, imbuing, extended to device involved and the modiphases thereof have proper authorization for interacting with the property of another entity in their application and intent and in the intentions regarding other users a requisite wholly legal intention in the interaction is required before initiating a system command’s interaction attempt initiated, a pause in communication from a user of a thousand milliseconds or longer indicates the end of a phrase while the user doesn’t intend the phrase to be abandoned or continued after the pause as the same phrase without an interaction attempt initiated by the part of the phrase before the pause whether complete or incomplete, interactions are always painless and comfortable and go perfectly every time, in interactions where past events have been changed, the user stacks the change as a system speech command in their changelog with the specifics described in the Changelog provision, and an interaction with the system is indistinguishable from an interaction without the system, any and all system speech and system command speech which a user’s birth and or or being brought back to life is contingent on, while the user’s birth and or or being brought back to life is contingent on the system speech and or or system command speech, and, or, any and all system speech and system command speech which is essential to, and is a contingency of, a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, while is essential to a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, also if there is system speech which the longevity and/or prosperity of mankind and/or terrestrial life are greatly enhanced and/or ensured by, for any number of the options listed in the paragraph, the system speech and system command speech relevant never are cleared or freed until there isn’t a contingency of an essential nature which is essential to and is a contingency of a user’s survival, and, or, being recovered from a disability, and, or, ability to procreate, and, or, self-wanted change of sex, and, or, being recovered from an injury, and, or, being recovered from an ailment, and, or, being brought back to life, and, or, being, and, or, birth, of a user, but the system speech and, or, system command speech, stays secured until the right moment when and while the contingency is lifted, and the system speech and system command speech relevant is kept tracking and secured for the best amount of the time for the user(s) most relevant, each time secured by the system, and at the right time(s), in enough devices of appropriate authorization and security and compatibility with securelinking and the Waepoint System Standards and the network and an in-network device and/or some to all in-network devices welcome places, in-network and out-of-network, through securelinking, for certainty of access by the users which are the reasons what was secured by the system is secured, at all times during the duration of the securing and proper application, tracking, and never stop tracking and never are freed, but are instead tracking within the system, while the birth or being brought back to life is contingent on the system speech or the longevity and/or prosperity of mankind and/or terrestrial life are greatly enhanced and/or ensured by still moving the system speech to the right system up in the inheritance chain and network if a system isn’t extended to any more where the system speech is secured, also protected from the misuse of user’s, and, or, users’, automatically are the loaded module(s), and the module description(s), system speech, and system command speech, and system setup, and system commands, and labels and helpers of requests, and the use of the Waepoint System Standards, which the manufacturer(s) of the device the users are, and, or, the user is, on, and developer(s) of the software of the device the users are, and, or, the user is, on, would decide is essential to, and, or, will, be the expected operation and use of the device the users are, and, or, the user is, on, and all of the device’s stacked system speech which isn’t uninstalled by the Clean uninstall the repository... System Command on the device if the Clean uninstall the repository... System Command was to be performed on the device the user is on by an owner of the device, and the software and supporting files installed on the device the users are, and, or, the user is, on by the manufacturer(s) of the hardware of, and developer(s) of the software installed on, the device the users are, and, or, the user is, on, while would be decided as essential to, and, or, will be the expected operation and use of the device the users are, and, or, the user is, on, and the operating system, the BIOS, the firmware, and the software of, and supporting files of the software, and supporting files of, and the user’s, and, or, users’ personal files on, the device the users are, and, or, the user is, on, also protected from the misuse of the user(s), and the owner(s), automatically until dangerous to the device the users are, and, or, the user is, on, and, or, any and all users, and, or, unhelpful, and, or, also no longer relevant, to the owner(s) of the device the users are, and, or, the user is, on, are the loaded module(s), and the module description(s), system speech, and system command speech, which are the owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device while the loaded module(s), and the module description(s), system speech, and system command speech, are owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device the users are, and, or, the user is, on are the owner’s, or owners’, expected routine use of the device the users are, and, or, the user is, on and the system(s) on the device the users are, and, or, the user is, on, system commands give success notifications which the user is let notice when system commands given and being performed are successful with the information the user would want to, and does want to, know, if a duration for a system command is quoted to the user by the endpoint, waepoint, and, or, system, and the duration is exceeded by over a few seconds, the user is let notice the new remaining duration of the system command given and being performed, if and when a system command is given and being performed and exceeds the duration quoted to the user by the system, and, or, endpoint, or waepoint
 
 ## System Setup
 
@@ -235,7 +333,7 @@ Set my app for semicolon starting messages to…
 
 **Zone**, a network of users which permits stacking of ways and tenets on the zone, and may have the application of modiphases applied from ways and tenets and reserved or hub provisioned or zone bound or user defined system commands and the stacked system speech in the interactions between users and the users or other users in the same zone, users return to the lobby if in a zone or other mapping other than the lobby of the hub at the time of more recent revision of the hub’s provisions than the most recent consent is for relevant to the specific provision changes to the hub’s provisions, when changing the ways and/or tenets a of a zone away from the initial ways and tenets, the hub asks the user to name the zone by prompting them to notice a request to do so or abandon the way and/or tenet change and acts on the response, named zones are called stops, stops can be partitioned into more stops, each contained stop inheriting the ways and tenets of the containing stops, zones let the user hear the voices on the zone, but within the limits of the system’s provisions and provisions of the Waypoint System Standards and definitions of the zone and/or the definitions of the system provisions
 **Lobby**, a network in which the application of modiphases applied in the interactions with the user(s) by the system(s) and between the users, when and while they are interacting through the lobby and the users are, or user is, on the lobby, stay well within a comfortable range, is only the definition of the system without adding system provisions beyond the Waepoint System Standards, without expansion, alteration or redaction, and lobby-bound and lobby available system commands and declaring system commands which don’t involve interactions and/or system speech which harms or heals or is about either, administrative system commands, utility system commands, transportation system commands, the initial consent system commands, connection system commands, the clean uninstall the repository... System Command, the request… system command from the Lobby-Bound Reserved Defined System Commands, and the related gestures if a gesture related is in the provisions of the system, and system command confirmations, the users which have yet to consent to the most recent revision are limited in terms of mappings to be taken to to the lobbies and if a user is taken to the lobby by a version change of the system provisions, the user notices they were taken to the lobby because of a system provision change, also if they connect to the system and haven’t consented to the most recent revision of the system provisions they notice, ways aren’t permitted to be stacked on a lobby and the on a moderator stacked ways are suspended while in the lobby, accepted incoming connection requests are taken to the lobby when entering the system, lobbies let the user hear the voices on the lobby, but within the limits of the provisions of the Waypoint System Standards, modules aren’t able to apply to and, or, on lobbies
-**Library**, the zone where unstacked, stacked system speech gets shelved in the respective library for safe keeping and keeping safe from, without application of modiphases applied in interactions with the system speech shelved, while shelved, until the system speech is stacked again or deshelved, and to be shelved, as a user or other role, being shelved lets the user notice the user’s been shelved and needs to deshelve or hangup and skips interacting with the other mappings of the hub beyond the send a message… and reply with… reserved defined system commands or deshelving by a user and the user is unstacked on the user’s stacked system speech, additionally, the users in the library interacting with the user and the users don’t have application of modiphases applied from the user’s in the library’s stacked system speech in interactions with the user by the user and other users in the library while in the library and the user’s and users’ in the library’s semicolon starting messages for the involved recipients of the semicolon starting messages while in the library
+**Library**, the zone where unstacked, stacked system speech gets shelved in the respective library for safe keeping and keeping safe from, without application of modiphases applied in interactions with the system speech shelved, while shelved, until the system speech is stacked again or deshelved, and to be shelved, as a user or other role, being shelved lets the user notice the user’s been shelved and needs to deshelve or hangup and skips interacting with the other mappings of the hub beyond the send a message… and reply with… reserved defined system commands or deshelving by a user and the user is unstacked on the user’s stacked system speech, additionally, the users in the library interacting with the user and the users don’t have application of modiphases applied from the user’s in the library’s stacked system speech in interactions with the user by the user and other users in the library while in the library
 **Plateau**, the users’ family within a generation’s, for the user(s) under 18 and the user(s) which have a user, or have users, under 18 as children, and, or, of which the user is the legal guardian of, otherwise, the user’s, individual and respective or segment’s outermost and initial area as a travelable representation of the user’s family within a generation’s, for the user(s) under 18 and the user(s) which have a user, or have users, under 18 as children, and, or, of which the user is the legal guardian of, otherwise, the user’s, collection or the segment’s communal between users in the segment’s collection in the each segment they belong to, untravelable to by user(s) which aren’t the user’s family within a generation’s, for the user(s) under 18 and the user(s) which have a user, or have users, under 18 as children, and, or, of which the user is the legal guardian of, otherwise, the user’s, selfs, if the user’s family within a generation’s, for the user(s) under 18 and the user(s) which have a user, or have users, under 18 as children, and, or, of which the user is the legal guardian of, otherwise, the user’s, individual plateau, and, or, the stacked on successive system(s) and, or, collections, of, is the, outside of the user’s family within a generation, for the user(s) under 18 and the user(s) which have a user, or have users, under 18 as children, and, or, of which the user is the legal guardian of, otherwise, other than the user’s self’s, user’s destination, every plateau comes with a lobby, and each plateau offers users only lobby available system commands in terms of available system commands, the deceased have the hangup reserved defined system command performed on them when on the deceased’s respective plateau after a few hours
 
 ## Reserved Defined System Command Gestures
@@ -279,7 +377,7 @@ Set my app for semicolon starting messages to…
 
 ### Consent System Commands
 
-**I agree/Opt me in**, if in response to the intended offer for an application of modiphases applicable intended, by the offerer, if the user which is being offered the application of modiphases applicable agrees to the application of modiphases applicable and has informed consent of the application of modiphases applicable, or abandoning the initiating of the system command’s attempt initiated otherwise, to have application of the system’s modiphases applied will have the system consider consent is given and the I consent system command has been given, without having to give a system command if the phrase opt me in is the system command declaration, otherwise, the system command is performed when given as a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of modiphases applicable which may be applied in the future, and confirms the responded to intended offer for an application of modiphases applicable intended as the Confirmed Phrase and Confirmed Phrases provision does a confirmed phrase unless the phrase contains a system command confirmation, and, or, the abandon, performing the system commands within the responded to intended offer for an application of modiphases applicable intended as the Confirmed Phrase and Confirmed Phrases provision describes and does so with the third most priority out of the paragraph’s described system command provision if so and does with definitions what the Definitions provisions describe with the most priority out of the paragraph’s described system command provision if so, unless the phrase contains the abandon then won’t perform the system commands within, and, won’t confirm as the Confirmed Phrase and Confirmed Phrases provision does a confirmed phrase, the responded to intended offer for an application of modiphases applicable intended, and also won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason and does so with the second most priority of the paragraph’s described system command provision if so
+**Opt me… in/I consent/I agree and consent/I agree/Yes/Yeah/Okay**, if in response to the intended offer for an application of modiphases applicable intended, by the offerer to the most relevant person(s) to the offered intended application of modiphases applicable intended, if the user which is being offered the application of modiphases applicable agrees to the application of modiphases applicable and has informed consent of the application of modiphases applicable, or abandoning the initiating of the system command’s attempt initiated otherwise, to have application of the system’s modiphases applied will have the system consider consent is given and the I consent system command has been given, without having to give a system command, by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of modiphases applicable which may be applied in the future, and confirms the responded to intended offer for an application of modiphases applicable intended as the Confirmed Phrase and Confirmed Phrases provision does a confirmed phrase unless the phrase contains a system command confirmation, and, or, the abandon, performing the system commands intended from the offered intended system commands within the responded to intended offer for an application of modiphases applicable intended as the Confirmed Phrase and Confirmed Phrases provision describes and does so with the third most priority out of the paragraph’s described system command provision if so and does with definitions what the Definitions provisions describe with the most priority out of the paragraph’s described system command provision if so, unless the phrase contains the abandon then won’t perform the system commands within, and, won’t confirm as the Confirmed Phrase and Confirmed Phrases provision does a confirmed phrase, the responded to intended offer for an application of modiphases applicable intended, and also won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason and does so with the second most priority of the paragraph’s described system command provision if so
 **Opt in to.../opt back in to.../I consent to…**, followed by something you have revoked consent to or can consent to in regards to the application of a specific set of modiphases applicable, will have the system consider consent is given for the application of a specific set of modiphases applicable, consent can only be given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of modiphases applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason
 **Opt out of.../Opt me out of.../I revoke consent for.../I revoke prior consent to.../I revoke prior consent for…**, followed by something you have, or can consent to regarding the system which is less in the system priorities hierarchy than a provision, will revoke prior consent given by a user’s self or a parent, legal guardian, either, of the user which is a user under 18 or a user for which the user has the power of attorney of or is in conservatorship of or has spousal rights to and the user is deceased or unconscious regarding the application of a specific set of modiphases applicable which may be applied in the future, and won’t if less than what would be considered informed consent would be given by the phrase being spoken in response by the user has the user notice the reason, to opt out of the Waepoint System Standards and/or a community provision of communityprovision.md and/or definition in micro.md is to opt out of the containing repository’s use in full
 
@@ -471,9 +569,3 @@ Users on the compatible system or device which have the capability available may
 
 Incoming connection requests and incoming joining requests are only listened for when the owner or an approved user of the owner will connect or join, each time a device with a hub hasn’t had the owner or owners, a new owner or a newly approved user which may connect or join within a week, connect or join yet, the hub or other compatible system is listening for incoming connection or joining requests, and after that connection or joining, and the owner or user’s timeline is established, listening for inbound connections happens only when an owner or user will be joining or connecting, also the listening for inbound connection or joining requests may be status changed through system commands, and listens for inbound connection or joining requests again when there is a change to the established timeline of the owner or an approved user by the owner
 Owners of the endpoints, waepoints, hubs, compatible systems, mappings, collections and independent lobbies, receive connection requests from the users which match the compatible destination’s access policy and from themselves when they are intending to connect to the compatible destination, and joining requests from owners of lobbies, compatible systems, hubs, collections, mappings, which intend to join with the compatible system, collection, hub or lobby, mapping, but lobbies can only join with lobbies, whether the lobby is independent of an endpoint or waepoint or stacked on, the incoming connection requests and joining requests, will go to the owners of the endpoint, or owners of the waepoint or owners of the hub or owners of the compatible system, owners of the collection, or owners of the lobby, and a specific owner of the endpoint or waepoint or hub or compatible system or compatible device or lobby can be requested of out of the owners by referencing the specific owner in the request, if a request is denied or declined, the owner notices they may send a message to the user which initiated the request to explain the decline until the phrase send and confirm or communicate the abandon and send nothing back or decline to send a message back, if the incoming connection or joining request is approved, the user is taken to the collection, or compatible system, and landing mapping, whichever the request was for, unless the request was for a lobby, then to the lobby, or hub if the request was for a hub, and if the incoming joining request is approved, the requested endpoint joins with the requesting endpoint or the requesting waepoint or the requested waepoint joins with the requesting waepoint or endpoint, or the requested hub joins with the requested hub, or the requested compatible system joins with the requested compatible system, or collection joins with the collection, or the mapping joins with the mapping, or the requesting lobby joins with the requested lobby, or whichever combination of the options requested is compatible, until either the leave... Or hangup... reserved defined system command is performed on either the requesting compatible system, collection, mapping, or requested compatible system, collection, mapping, by an owner of either compatible system, collection, endpoint or waepoint
-
-## Semicolon Starting Messages
-
-**Set my app for semicolon starting messages…**, followed by an app will designate where the system should look for the user’s semicolon starting messages on the user’s phone and set a preferring for the app to be where the system should look for semicolon starting messages for and by the users by stacking the user on the preferring, the system won’t send empty messages and the user notices a message is required if an attempt to do so is initiated
-
-If the intended user for the modiphases applicable of the semicolon starting messages as well as the sending user and the intended recipient users or users of the semicolon starting message have set an app preferring for semicolon starting messages with the set my app preferring for semicolon starting messages system command, the system will make their semicolon starting messages in the app on their phone’s intentions, and if the semicolon starting messages has applications of the modiphases applicable intended for more users than the user, the semicolon starting message must be kept on the user’s involved in the applicable modiphases’ own phone in the app which the user involved in the modiphases applicable has set as their preferrings for semicolon starting messages, have been read in entirety by a user which is involved in the modiphases applicable in the user’s interactions with the user and with other users in the mapping while the user is in the mapping to have modiphases applicable in the user’s interactions with the user’s own self and with the other users in the mapping, if the mapping provisions permit, however, the application of the modiphases applicable must stay within the limits of restrictions of the consent criteria of intentions for the user’s involved in the applicable modiphases to have modiphases applied for the user which would be involved in the the application of the modiphases applicable, the semicolon starting messages relevant must have been kept on the phone after reading in entirety by the user which is the intended recipient of the semicolon starting message for at least 60,000 milliseconds to apply to the users involved with the semicolon starting message’s modiphases applicable individually and respectively, but also limited to the set of users matching the consent criteria of stacking, and in interactions with other system speech
