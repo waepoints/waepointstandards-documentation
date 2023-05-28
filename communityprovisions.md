@@ -23,7 +23,7 @@ In interactions with the system, defined system commands only perform a couple o
 In interactions with the system, devices, mapping, users, volume and comfort of the users interacting are always within acceptable levels with word choice staying as intended for the users interacting, when system commands would alter word choice from intended the system commands stop tracking at the right time to avoid such, also application of modephases applied to increasing the feeling of anger is avoided
 
 # Concerns About The Bottom Line
-In interactions with the user or users and the system, when a system command is being performed and is using what would be considered a misuse, and, or, gross excess, and, or, gross use, of power consumption and/or battery percentage, if battery operated, and/or to the owner of the battery, and/or to the user(s) responsible for paying and/or initiating the cost incurred, and/or by the owners of the system, segment(s), and/or device(s) involved, the system abandons the system command
+In interactions with the user or users and the system, when a system command is being performed and is using what would be considered a misuse, and, or, gross excess, of power consumption and/or battery percentage, if battery operated, and/or to the owner of the battery, and/or to the user(s) responsible for paying and/or initiating the cost incurred, and/or by the owners of the system, segment(s), and/or device(s) involved, the system abandons the system command
 
 # Can’t get someone pregnant against their preferrings
 In interactions with the system, people can’t be made pregnant against their preferrings through the system and/or without immediately prior explicit consent given to the user which would make the person by the user getting pregnant
