@@ -112,7 +112,7 @@ System Command Name(s), System Command Declarations, System Command Interactions
 
 ### System Setup
 
-Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Compatible Device(s) and/or Compatible Software or Mapping(s) or System(s), Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
+Effects, Modiphases, Parallels, Gateways, Modules, Module Descriptions, System, System Stack, Independent System, Travel, Protocols, Inheriting, Managing Entity, Preferrings, Inventory, Hub Provisions, User, Owner, Administrator, Moderator, Endpoint, The Grand Lobby, Independent Lobby, Joining, Waepoint, Hub, Definition Of The Compatible Device(s) and/or Compatible Software or Mapping(s) or System(s), Confirmation, Messaging Confirmation, System Command Confirmation, Abandon, Shelving, Changelog, Activity, Mandates, Affect, History, Securing, Securelinking, Freeing, Locking, Warding, Free, Anchoring…, Stacking, Tracking, Mappings, Relaypoint, Resource, Clustering, Extending, Modes, Scope
 
 ### System Mappings
 
@@ -164,7 +164,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... Focus..., Perform the system command(s)..., ... Apply..., … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
+... Focus..., Perform the system command(s)..., ... Apply..., … (As…/Turn… to…/Turn… into…/With) modiphases/modiphase(d)…, … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., …Reset…, … As Modiphases…, … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
 
 ### Communication System Commands
 
@@ -196,7 +196,7 @@ Designate… as…, Give my role of… to…, Undesignate… as…
 
 ### Interfacing System Commands
 
-... Define…, … Alias… As…, …Dealias(ed)…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
+... Define…, … Alias… As…, …Dealias(ed) all (the) aliases for…, … Dealias(ed)… as…, Change the … to … mode…, Set... custom... confirmation..., Clear... custom... confirmation..., Set ... welcome message to..., Set... Welcome message for... To..., Clear welcome messages..., Clear welcome message for...
 
 ### Module System Commands
 
