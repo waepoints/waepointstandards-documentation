@@ -2,7 +2,7 @@
 
 ### System Speech and System Setup Priorities Hierarchy
 
-Governing Entity Published Policy
+Governing Entity Governmental Published Policy
 
 Governing Entity Departmental Order and/or Governing Entity Departmental Directive
 
