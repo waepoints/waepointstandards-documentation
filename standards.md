@@ -277,7 +277,7 @@ Define a module that/which/where... Named/called..., Update the... module... To 
 
 ## System Setup
 
-> For application of modiphases applied, the modiphases stay modiphases, and are locked in as modiphases, and continue on as modiphases, new effects when applied are applied with applications of effects applied unless the new effects, when applied, are better to be modiphases applying with applications of modiphases applied
+> For application of modiphases applied, the modiphases stay modiphases, and are locked in as modiphases, and continue on as modiphases, new effects when applied are applied with applications of effects applied unless the new effects, when applied, are better to be modiphases applying, or applied, with applications of modiphases applied
 
 **Effects**, virtualized changes away from reality
 **Modiphases**, changes away from reality which change reality to become reality with the change away from integrated
