@@ -148,7 +148,7 @@ Opt me… in…, Opt in to…, Opt out of….
 
 ### Connection System Commands
 
-Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join…, …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
+Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
 
 ### Transportation System Commands
 
@@ -164,7 +164,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... Focus..., Perform the system command(s)..., ... Apply..., … (As) Modiphases…, … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., …Reset… back to reality…, … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
+... Focus..., Perform the system command(s)..., ... Apply..., … (As) Modiphases…, … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., …Reset… back to reality…, … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Communication System Commands
 
