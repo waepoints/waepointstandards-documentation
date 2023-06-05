@@ -66,7 +66,7 @@ The Waepoint System Standards can only be opted in to and opted out of in entire
 
 Versions of the Waepoint System Standards are denoted by the letter v, then a decimal number, immediately following the words Waepoint System Standards in the License section of the README.Md
 
-The best contact is by email at patrick@waepoints.com, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
+The best contact is by email at info@waepoints.com, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
 
 # Contributing
 
