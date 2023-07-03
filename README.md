@@ -14,6 +14,12 @@ waepointstandards git repository
 
 Inheritance network endpoint -> waepoint, and endpoint -> independent system, and waepoint -> independent system, chains of independent, and of stackable, systems, endpoints, and waepoints, with additional functionality defined through defined system commands and defined system command gestures, and user-defined, or imported from document file, or repository, or shared with the user, modules which expand, extend, enhance, the core functionality of the Waepoint System Standards, which may be shared to other users which have the Standard Definition of the Waepoint System Standards for the Compatible Device(s) stacked, on an in-network endpoint, relative to them, or are still being in contact with an endpoint, waepoint, or independent system which is of the Waepoint System Standards from a standardized Waepoint System Standards version’s set of provisions of the Waepoint System Standards
 
+# If you’ve opted out of the Waepoint System Standards before and still are opted out
+
+If you’ve opted out before, and want to opt back in say the following…
+
+> “I consent to the set of the provisions which are the Waepoint System Standards’s set of the provisions which are of the newest, each time there’s a newest, standardized Waepoint System Standards version, opt me in, with a system command”
+
 # Virtualized Effects
 
 The Waepoint System Standards leverage virtualized effects as the preferred choice for new conversation effecting and the system commands which aren’t used for First Aid, Permanence, and the relevant Module, System Commands, while virtualized effects are an option of the legal choices to be virtualized effects, the virtualized effects are limited to the contacting’s duration spent being in contact with the specific independent system, or endpoint, or waepoint, the user is being in contact with which is the specific independent system, or endpoint, or waepoint, the user is still being in contact with for the duration of the contacting, but virtualized effects cease the virtualized effects from the system command(s) which had the performance initialized by the user, also the user’s system speech, effecting, at the end of the duration of the contacting, and still being in contact with the specific independent system, or endpoint, or waepoint
