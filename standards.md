@@ -227,6 +227,10 @@ Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where�
 
 Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
 
+### Mission System Commands
+
+(Re)Outline Mission…, (Re)Set… Objective…, Update Primary Objective…, (Re)Set… Marker…, Assign Mission…, Mission Success…, Mission Abort…, Objective Complete/Complete Objective…, Show… (Marker…), Navigate… (Marker…), Autocomplete…, Check Progress…
+
 ### Lobby-Bound System Commands
 
 Request…/Make a request…
@@ -691,18 +695,46 @@ command except when referred to in specific
 ### Sets System Commands
 
 **Build a set/loadout with/from… called/named/as…**, with some number of intentions described, in terms of the system conversation and matching intentions, saves the system conversation as a set with a name for the user when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Build an empty set/loadout called/named/as…**, with a name for the set following, when given, or cued by the system, and, or, endpoint or waepoint, as a system command creates an empty set
+
 **Save… as a set/loadout called/named/as…**, with some number of intentions described uniquely, in terms of the system conversation and matching intentions, saves the system conversation referenced or described or if none are, all the user has stacked as a set with a name by the user when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Add/save… to the set/loadout named/called…**, uniquely, in terms of the phrases and matching intentions, saves all the system conversation described, or if none are, the most referenced or heard/noticed system conversation, to the set referenced when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Add/save… to the… set/loadout…**, uniquely, in terms of the phrases and matching intentions, saves all the system conversation described, or if none are, the most referenced or heard/noticed system conversation, to the referenced set, when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Add/save that to the set/loadout…**, uniquely, in terms of the items and matching intentions, adds the last heard/noticed described system conversation to the most recently referenced set, when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Remove/delete… from the set/loadout named/called…**, removed all the phrases described, or if none are, the most referenced or heard/noticed system conversation, from the set described, when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Remove/delete… from the set/loadout…**, removes all the phrases described, or if none are, the most referenced or heard/noticed system conversation, from the most recent referenced set when the phrase is given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Remove/delete that from the set/loadout…**, removes the last heard/noticed described system conversation from the most recently referenced set when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Remove/delete that to the set/loadout named/called…**, removes the last heard/noticed described system conversation from the set described after named/called, when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Stack/load/put on/equip the … set/sets/loadout/loadouts…**, uniquely, in terms of the item and matching intentions, stacks the set or sets described, or the most recently referenced set, if none is on the user, when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Unstack/unload/take off/unequip the set/loadout/sets/loadouts…**, unstacks the user’s last stacked set, or described set, or sets referenced, when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
 **Swap sets/loadouts for the … set/loadout…/swap the … set/loadout for the … set/loadout…/swap the … sets/loadouts for the … set…/swap sets/loadouts to the … set…/swap the … set to the … set…/swap the … sets/loadouts to the … set…**, unstacks all sets, or the set described, or the stacked sets for the sets, or set, described when given, or cued by the system, and, or, endpoint or waepoint, as a system command
+
+### Mission System Commands
+
+**(Re)Outline Mission…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, given with a described primary objective, and, or, a set of objectives, which may have markers for specific described locations, and a referenced user group of one, or more, to assign to lead the mission, and if there are any other group members to assign to the mission, and specific objective for the group member to complete, and a sequence for the objectives if there are any reliances of one objective on another, generating a new, or replacing an existing, mission description, based on the user’s intention, and if the user already has a relevant, intended to be replaced, mission description in the user’s inventory, and sets any prerequisites for assignment
+
+Update Primary Objective…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, highlights the primary objective, with the referenced objective from the defined objectives, or defines a new objective described to be the primary objective
+
+(Re)Set… Objective…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, defines an essential, or optional, or dependency for one of the objectives respective to another of the objectives, for the referenced objective from the defined objectives, or defines a new objective described to be the primary, or an essential, or an optional, and any dependencies of the objective on other objectives, and an optional marker for the objective
+
+(Re)Set… Marker…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, referencing an objective, defines a location and some details respective to the objective and the location
+
+Assign Mission… (To be led by…) (With…) (On…/At…/When…/Before…), when given, or cued by the system, and, or, endpoint or waepoint, as a system command, assigns a mission description to a group of users of one, or more, naming a user to lead the mission, and any other roles, or objectives the other group members will handle, and schedules any prerequisite conditions, or scheduling for the execution of the mission, and an optional deadline for the mission…, versus as soon as practical
+
+Assign Objective…, 
+
+Free Objective…, Mission Success…, Mission Abort…, Objective Complete/Complete Objective…, Show… (Marker…), Navigate… (Marker…), Execute Mission…, Autocomplete Objective(s)…, Check Progress…, Welfare Check…, Relax The Mission…, Resume… (The…) Mission…
 
 ### Lobby-Bound System Commands
 
