@@ -722,19 +722,25 @@ command except when referred to in specific
 
 ### Mission System Commands
 
-**(Re)Outline Mission…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, given with a described primary objective, and, or, a set of objectives, which may have markers for specific described locations, and a referenced user group of one, or more, to assign to lead the mission, and if there are any other group members to assign to the mission, and specific objective for the group member to complete, and a sequence for the objectives if there are any reliances of one objective on another, generating a new, or replacing an existing, mission description, based on the user’s intention, and if the user already has a relevant, intended to be replaced, mission description in the user’s inventory, and sets any prerequisites for assignment
+**(Re)Outline Mission…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, given with a described primary objective, and, or, a set of objectives, which may have markers for specific described locations, and a referenced worker group of one, or more, to assign to lead the mission, and if there are any other worker group members to assign to the mission, and specific objective for the worker group member to complete, and a sequence for the objectives if there are any reliances of one objective on another, generating a new, or replacing an existing, mission description, based on the user’s intention, and if the user already has a relevant, intended to be replaced, mission description in the user’s inventory, and sets any prerequisites for assignment
 
-Update Primary Objective…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, highlights the primary objective, with the referenced objective from the defined objectives, or defines a new objective described to be the primary objective
+**Update Primary Objective…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, highlights the primary objective, with the referenced objective from the defined objectives, or defines a new objective described to be the primary objective, or assign which worker(s) from the worker group is assigned to the primary objective
 
-(Re)Set… Objective…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, defines an essential, or optional, or dependency for one of the objectives respective to another of the objectives, for the referenced objective from the defined objectives, or defines a new objective described to be the primary, or an essential, or an optional, and any dependencies of the objective on other objectives, and an optional marker for the objective
+**(Re)Set…/Update… Objective…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, defines an essential, or optional, or dependency for one of the objectives respective to another of the objectives, for the referenced objective from the defined objectives, or defines a new objective described to be the primary, or an essential, or an optional, and any dependencies of the objective on other objectives, and an optional marker for the objective
 
-(Re)Set… Marker…, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, referencing an objective, defines a location and some details respective to the objective and the location
+**(Re)Set… Marker…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, referencing an objective, defines a location and some details respective to the objective and the location
 
-Assign Mission… (To be led by…) (With…) (On…/At…/When…/Before…), when given, or cued by the system, and, or, endpoint or waepoint, as a system command, assigns a mission description to a group of users of one, or more, naming a user to lead the mission, and any other roles, or objectives the other group members will handle, and schedules any prerequisite conditions, or scheduling for the execution of the mission, and an optional deadline for the mission…, versus as soon as practical
+**Assign Mission… (To be led by…) (With…) (On…/At…/When…/Before…)**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, assigns a mission description to a worker group of one, or more, naming a worker to lead the mission, and any other roles, or objectives the other group members will handle, and schedules any prerequisite conditions, or scheduling for the execution of the mission, and an optional deadline for the mission…, versus as soon as practical
 
-Assign Objective…, 
+**Assign Objective…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, assigns an objective to a worker, as an essential, or optional, objective and any dependencies the objective may have specific to the worker
 
-Free Objective…, Mission Success…, Mission Abort…, Objective Complete/Complete Objective…, Show… (Marker…), Navigate… (Marker…), Execute Mission…, Autocomplete Objective(s)…, Check Progress…, Welfare Check…, Relax The Mission…, Resume… (The…) Mission…
+**Generalize Objective…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, assigns an objective to all of the worker, and any dependencies the objective may have specific to the beginning the objective, and which objectives have dependencies on the completion of the objective
+
+**Release Objective…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, releases an objective from the referenced, or working, mission
+
+**Mission Success…**, when given, or cued by the system, and, or, endpoint or waepoint, as a system command, modiphizes the effects to modiphases respective to the mission, releases the mission as the working mission, stores the mission description in the user’s inventory, updating the mission description with a synopsis generated of the undertaking of the mission in a brief, and full summary, and time and date timestamps the completion of mission in the mission description and the Completion Log
+
+Mission Abort…, Objective Complete/Complete Objective…, Show… (Marker…), Navigate… (Marker…), Execute Mission…, Autocomplete Objective(s)…, Check Progress…, Welfare Check…, Relax The Mission…, Resume… (The…) Mission…
 
 ### Lobby-Bound System Commands
 
