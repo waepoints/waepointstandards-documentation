@@ -192,6 +192,10 @@ Generate a standard new name…, Deshelve…, ...Ask… … Where…/… Where�
 
 Build a set/loadout with/from… called/named/as…, Build an empty set/loadout called/named/as…, Save… as a set/loadout called/named/as…, Add the phrase/phrases… to the set/loadout named/called…, Add the phrase/phrases…, Add that to the set/loadout…, Add that to the set/loadout named/called…, Remove the phrase/phrases… from the set/loadout named/called…, Remove the phrase/phrases…, Remove that from the set/loadout…, Stack the … set/loadout…, Unstack the set/loadout…, Swap sets/loadouts for the … set/loadout…
 
+### Worker Mission System Commands
+
+(Re)Outline Worker Mission…, (Re)Set… Worker Objective…, Update Primary Worker Objective…, (Re)Set… Worker Marker…, Assign Worker Mission…, Worker Mission Success…, Assign Worker Objective…, Generalize Worker Objective…, Release... (The...) (Set Of...) Worker Objective…,  Worker Mission Abort…, Worker Objective Complete/Complete Worker Objective…, Show… Worker (Marker…), Navigate… Worker (Marker…), Autocomplete… (Set Of) Worker Objective(s), Check... Worker Mission Progress…,... Worker Group Welfare Check...
+
 ### Lobby-Bound System Commands
 
 Request…/Make a request…
